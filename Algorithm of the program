@@ -1,0 +1,9 @@
+Step 1: Start.
+Step 2: Read sensor data.
+Step 3: Display data to LCD.
+Step 4: Check entry or exit.
+Step 5: If Entry occurs increment the count.
+Step 6: If Exit occurs decrement the count.
+Step 7: If Count greater than 0 turn ON the loads and go to step 2.
+Step 8: If Count equal to zero then turn OFF the loads and go to step 2.Step 
+9: Stop
